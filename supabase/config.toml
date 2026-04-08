@@ -1,0 +1,7 @@
+project_id = "ofvjsrylfwebetstganq"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.elevenlabs-tts]
+verify_jwt = false
